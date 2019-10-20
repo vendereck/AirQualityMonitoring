@@ -1,0 +1,3 @@
+user guide
+
+Ce package est à importer dans google Earth ou toute application prenant en charge les fichiers kmz et kml
